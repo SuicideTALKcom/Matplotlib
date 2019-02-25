@@ -1,6 +1,4 @@
-# Unit 5 | Assignment - The Power of Plots
-
-## Background
+## The Power of Plots
 
 What good is data without a good plot to tell the story?  As always, it's your choice which you complete. _Perhaps_, choose the one most relevant to your future career.
 
